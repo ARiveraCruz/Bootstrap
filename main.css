@@ -2,3 +2,8 @@
     background-image: url("hawaii.jpg");
     color: white;
 }
+
+#motivos img{
+    height: 100px;
+    width: 80px;
+}
